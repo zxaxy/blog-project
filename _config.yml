@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: zxaxy' blog
+title: High Z' blog
 subtitle: 一个技术人的步伐
 description: 每日写一点，将会产生巨大的进步
 keywords: js, javascript, html, css, vue, react, nodejs, sql
 author: 周湘
-language: zh_cn
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
@@ -82,3 +82,7 @@ deploy:
   repo: git@github.com:zxaxy/zxaxy.github.io.git
   branch: master
   message: [message]
+
+# Github
+github: 
+  username: zxaxy  # github username
